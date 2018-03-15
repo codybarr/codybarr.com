@@ -1,0 +1,29 @@
+/* Theme */
+
+/*https://material.io/color/#!/?view.left=0&view.right=0&primary.color=FFFF00&secondary.color=616161*/
+
+::selection {
+  background: #616161;
+}
+
+body {
+    /*background-image: linear-gradient(120deg, #ffff00 0%, #ffff5a 100%);*/
+    background-image: radial-gradient(circle, #ffff5a, #c7cc00);
+    color: #1E1E1E;
+}
+
+.icons-social a {
+    color: #1E1E1E;
+}
+
+.icons-social a:hover {
+    color: #616161;
+}
+
+.icons-social a svg path {
+    fill: #1E1E1E;
+}
+
+.icons-social a:hover svg path {
+    fill: #616161;
+}
