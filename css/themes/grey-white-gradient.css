@@ -1,0 +1,21 @@
+/* Theme */
+
+::selection {
+    color: #1E1E1E;
+    background-color: #FFFF00;
+}
+
+body {
+    background-image: radial-gradient(circle, #607285, #485564);
+    /*background-color: #485564;*/
+    color: #FAFAFA;
+}
+
+.icons-social a svg path{
+    transition: .1s ease-in-out;
+	fill: #FAFAFA;
+}
+
+.icons-social a:hover svg path {
+    fill: #303C48;
+}

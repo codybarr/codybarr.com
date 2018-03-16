@@ -65,9 +65,9 @@ main {
 }
 
 main .intro {
-	font-family: 'Reem Kufi', sans-serif;
+	font-family: 'Damion', sans-serif;
 	font-size: 3.75em;
-	font-weight: 600;
+	/*font-weight: 600;*/
 }
 
 main .tagline {
